@@ -1,6 +1,6 @@
 // Defined three arrays to store information about a list of items
 let item_names = ["pen", "pencil", "marker"];
-let item_price =[ "$.50", "$.25", "$1"]
+let item_price =[ 50, 25, 1]
 let in_stock = [true, false, true];
 // Got the first item name and price from the arrays by accessing the first element usign the index number
 let first_item_name = item_names[0];
